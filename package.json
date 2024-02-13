@@ -1,0 +1,25 @@
+{
+  "name": "practice_reactjs",
+  "version": "0.1.0",
+  "private": true,
+  "description": "\"practicing ReactJS\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "npx parcel index.html",
+    "build": "npx  build index.html"
+  },
+  "keywords": [
+    "reactJS"
+  ],
+  "author": "Darshan",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.11.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}

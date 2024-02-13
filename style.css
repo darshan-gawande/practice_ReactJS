@@ -1,0 +1,18 @@
+img {
+    width: 200px;
+    height: 100px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #0f0e0e;
+    color: #fff;
+
+}
+
+.next-btn {
+    margin: 10px;
+}
