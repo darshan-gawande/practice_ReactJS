@@ -38,7 +38,7 @@ const Body = () => {
                  next
             </button>
 
-            {/* add button */}
+            {/* add button jhpan */}
 
             <div className="heading">
                 <h1><i>{sculpture.name} </i> 
