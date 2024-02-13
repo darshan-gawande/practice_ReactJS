@@ -38,6 +38,8 @@ const Body = () => {
                  next
             </button>
 
+            {/* add button */}
+
             <div className="heading">
                 <h1><i>{sculpture.name} </i> 
                      by {sculpture.artist} 
