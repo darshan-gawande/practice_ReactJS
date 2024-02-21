@@ -1,6 +1,7 @@
-img {
-    width: 200px;
-    height: 100px;
+.img {
+    width: 90px;
+    height: 60px;
+    
 }
 
 .header {
@@ -8,11 +9,23 @@ img {
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
-    background-color: #0f0e0e;
+    background-color: #e6dada;
     color: #eeeded;
 
 }
+.user-icon {
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
 
+}
 .next-btn {
     margin: 10px;
+    
+}
+
+.search-btn {
+    margin: 5px;
+    cursor: pointer;
+    padding: 5px;
 }
