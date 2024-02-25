@@ -29,3 +29,63 @@
     cursor: pointer;
     padding: 5px;
 }
+
+.header-router {
+    display: flex;
+    background-color: #fefefe;
+    color: black;
+
+   
+}
+
+.logo-router {
+    width: 100px;
+    height: 100px;
+}
+
+.nav-router {
+    padding: 0 70%;
+}
+
+.nav-router > ul {
+    display: flex;
+    list-style-type: none;
+    font-size: larger;
+    
+}
+
+.nav-router > ul > li {
+    padding: 10px 30px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+.nav-router >ul > li:hover {
+    background-color: #adaaaa;
+    color: azure;
+} 
+
+.user-router {
+    padding: 0 75%;
+}
+
+.user-router > ul {
+    display: flex;
+    list-style-type: none;
+
+}
+
+.user-router > ul > li {
+    padding: 10px 30px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+
+
+
+
